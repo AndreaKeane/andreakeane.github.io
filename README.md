@@ -2,7 +2,13 @@
 
 ## Projects 
 
+#### Electric Vehicle Detection
 
+[Project Repository] (https://github.com/AndreaKeane/electric-vehicle-detection)
+
+#### Neural Networks in Catalysis: Water-Gas Shift Reaction  
+
+[Report] (https://github.com/AndreaKeane/masters-thesis)
 
 ## Publications  
 
