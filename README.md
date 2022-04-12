@@ -13,9 +13,9 @@
 
 ## Publications  
 
-*Machine Learning Framework for the Analysis and Prediction of Catalytic Activity from Experimental Data*
-Smith, A., Keane, A., Huber, G., Dumesic, J., Zavala, V.M.
-Under Review, 2019.
+*A machine learning framework for the analysis and prediction of catalytic activity from experimental data*
+A Smith, A Keane, JA Dumesic, GW Huber, VM Zavala,
+Applied Catalysis B: Environmental (2020) 263, 118257.
 
 *Physiochemical Properties of Aluminum Adjuvants Elicit Differing Reorganization of Phospholipid Domains in Model Membranes*
 Lorena R. Antúnez, Andrea Livingston, Cory Berkland, and Prajnaparamita Dhar
